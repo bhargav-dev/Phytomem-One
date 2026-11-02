@@ -1,0 +1,26 @@
+# Phytomem Lab
+
+> Phytomem Lab is a Health & Fitness > Brain & Memory Supplement. Phytomem One is a stimulant-free brain and memory supplement from Phytomem Lab built around a botanical trio of saffron, berberine and cinnamon. Rather than leaning on caffeine or synthetic stimulants for a short jolt of alertness, it is positioned as a daily-use formula for people who want steady support for memory recall, mental focus and day-to-day clarity. The capsules are designed to slot into an ordinary morning routine, making Phytomem One a simple option for adults who feel their concentration or recall is not quite where it used to be and who prefer a plant-based, stimulant-free approach to brain health.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://phytomemone.onrender.com/)
+- [What Phytomem Lab is](https://phytomemone.onrender.com/what-is-product.html)
+- [How Phytomem Lab works](https://phytomemone.onrender.com/how-it-works.html)
+- [Phytomem Lab ingredients, explained individually](https://phytomemone.onrender.com/ingredients.html)
+- [Phytomem Lab benefits](https://phytomemone.onrender.com/benefits.html)
+- [Phytomem Lab customer reviews](https://phytomemone.onrender.com/reviews.html)
+- [Phytomem Lab frequently asked questions](https://phytomemone.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying Phytomem Lab](https://phytomemone.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at Phytomem Lab — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://phytomemone.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using Phytomem Lab's own label as a real example of what to look for.
+- [Phytomem Lab: An Honest Review](https://phytomemone.onrender.com/blog/phytomem-lab-honest-review.html): An honest look at Phytomem Lab — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Saffron Extract vs Berberine: What Each Does In Phytomem Lab](https://phytomemone.onrender.com/blog/saffron-extract-vs-berberine.html): Saffron Extract and Berberine are both in Phytomem Lab but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement Phytomem Lab](https://phytomemone.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with Phytomem Lab as part of a health & fitness > brain & memory routine.
+- [Phytomem Lab FAQ: Dosage, Timing, Who Should Skip It](https://phytomemone.onrender.com/blog/phytomem-lab-faq.html): Common questions about Phytomem Lab — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://phytomemone.onrender.com/terms.html)
+- [Privacy Policy](https://phytomemone.onrender.com/privacy-policy.html)
+- [Disclaimer](https://phytomemone.onrender.com/disclaimer.html)
+- [Refund Policy](https://phytomemone.onrender.com/refund-policy.html)
+- [About Us](https://phytomemone.onrender.com/about.html)
+- [Contact Us](https://phytomemone.onrender.com/contact.html)
